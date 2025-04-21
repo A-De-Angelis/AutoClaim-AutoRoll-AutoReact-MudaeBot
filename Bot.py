@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+import sys
+print("Using Python:", sys.executable)
+
 import Vars
 import time
 import schedule
