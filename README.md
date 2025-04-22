@@ -1,4 +1,4 @@
-# Mudae AutoRoll AutoClaim AutoReact
+# Mudae AutoRoll AutoClaim AutoReact [Broken for now]
 ### Original by GDiazFentanes, Updated by Ray
 
 ## Introduction
